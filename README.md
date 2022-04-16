@@ -2,12 +2,12 @@
 
 ## Overview of the Analysis
 In this analysis, data were collected and filtered for customers in order to find their ideal hotel anywhere in the world. The goal of this analysis is to allow customers to filter the data for their weather prefrence, which will then be used to identify potential travel destinations and create a travel itinerary. The following were collected in order to perform the analysis:
--Latitude and longitude
--Maximum temperature
--Percent humidity
--Percent cloudiness
--Wind speed
--Weather description (for example, clouds, fog, light rain, clear sky)
+  -Latitude and longitude
+  -Maximum temperature
+  -Percent humidity
+  -Percent cloudiness
+  -Wind speed
+  -Weather description (for example, clouds, fog, light rain, clear sky)
 
 ## Results
 
